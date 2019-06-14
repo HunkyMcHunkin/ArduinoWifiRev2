@@ -13,4 +13,4 @@ Underveis har det dukket opp en del problemer. Noen var enklere å løse enn and
 
 Problemer:
 - Får ikke skrevet ut det du forventer til **Serial monitor**:
-  - Sørg for at koden faktisk kan kompileres. Deretter sørg for at baud rate i **Serial monitor** er lik det du har i **Serial.begin(* *baud rate* *)** under **setup()**
+  - Sørg for at koden faktisk kan kompileres. Deretter sørg for at baud rate i **Serial monitor** er lik det du har i **Serial.begin(*baud rate*)** under **setup()**
