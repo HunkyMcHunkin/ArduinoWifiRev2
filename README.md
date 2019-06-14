@@ -15,4 +15,4 @@ Problemer:
 - **Serial.print()** skriver ikke ut det du forventer til **Serial monitor**:
   - Sørg for at koden faktisk kan kompileres. Deretter sørg for at baud rate i **Serial monitor** er lik det du har i **Serial.begin(*baud rate*)** under **setup()**.
 - Kan ikke laste inn angitt IP-adresse fra **Serial monitor** i Chrome eller Firefox:
-  - Sørg for at datamaskinen er koblet til samme nettverk som Arduinoen før du laster inn sida igjen.
+  - Sørg for at datamaskinen er koblet til samme nettverk som Arduinoen før du laster inn siden igjen.
