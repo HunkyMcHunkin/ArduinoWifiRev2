@@ -7,6 +7,8 @@ For å koble Arduino Uno WIFI Rev2 til internett er det gunstig å koble til alt
 En guide som kan brukes for å prøve å kommunisere med mikrokontrolleren finner man på [hjemmesiden](https://www.arduino.cc/en/Guide/ArduinoUnoWiFiRev2). 
 
 [WoolseyWorkshop](https://www.woolseyworkshop.com/) har også en guide for å [kommunisere via en nettside](https://www.woolseyworkshop.com/2018/12/07/controlling-an-arduino-uno-wifi-rev2-or-arduino-uno-with-wifi-shield-from-a-web-browser/), og hvordan [hente data fra IMU](https://www.woolseyworkshop.com/2019/01/23/accessing-the-imu-on-the-new-arduino-uno-wifi-rev2/).
+
+For det innebygde akselerometeret blir alt målt i **g**, hvor 1g = 9.81m/s^2 (med forbehold om avvik). 
 # Problemer underveis
 
 Underveis har det dukket opp en del problemer. Noen var enklere å løse enn andre og her vil det bli nevnt noen som har dukket opp. Det oppfordres til å søke på nettet om du støter på et problem:
