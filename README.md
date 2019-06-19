@@ -11,7 +11,7 @@ En guide som kan brukes for å prøve å kommunisere med mikrokontrolleren finne
 For det innebygde akselerometeret blir alt målt i **g**, hvor 1g = 9.81m/s^2 (med forbehold om avvik). 
 # Problemer underveis
 
-Underveis har det dukket opp en del problemer. Noen var enklere å løse enn andre og her vil det bli nevnt noen som har dukket opp. Det oppfordres til å søke på nettet om du støter på et problem:
+Underveis har det dukket opp en del problemer. Noen var enklere å løse enn andre og her vil det bli nevnt noen som har dukket opp. Det oppfordres til å søke på nettet om du støter på problemer:
 
 - [arduino.stackexchange](https://arduino.stackexchange.com/)
 - [forum.arduino](https://forum.arduino.cc/index.php?board=126.0)
