@@ -25,4 +25,4 @@ Problemer:
 
 # MySQL og WiFi Rev2
 
-WiFi Rev2 funker og det finnes kode som halvveis fungerer til å koble til MySQL. For WiFi Rev2 er det fortsatt ikke sikkert at [biblioteket](https://github.com/ChuckBell/MySQL_Connector_Arduino) fungerer for dette kortet. (Se [her](https://www.instructables.com/id/Arduino-Esp8266-Post-Data-to-Website/))
+WiFi Rev2 funker og det finnes kode som halvveis fungerer til å koble til MySQL. For WiFi Rev2 er det fortsatt ikke sikkert at [biblioteket](https://github.com/ChuckBell/MySQL_Connector_Arduino) fungerer for dette kortet. ([Se her](https://www.instructables.com/id/Arduino-Esp8266-Post-Data-to-Website/))
