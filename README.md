@@ -22,3 +22,7 @@ Problemer:
   - Sørg for at koden faktisk kan kompileres. Deretter sørg for at baud rate i **Serial monitor** er lik det du har i **Serial.begin(*baud rate*)** under **setup()**.
 - Kan ikke laste inn angitt IP-adresse fra **Serial monitor** i Chrome eller Firefox:
   - Sørg for at datamaskinen er koblet til samme nettverk som Arduinoen før du laster inn siden igjen.
+
+# MySQL og WiFi Rev2
+
+WiFi Rev2 funker og det finnes kode som halvveis fungerer til å koble til MySQL. For WiFi Rev2 er det fortsatt ikke sikkert at [biblioteket](https://github.com/ChuckBell/MySQL_Connector_Arduino) fungerer for dette kortet. (Se [her](https://www.instructables.com/id/Arduino-Esp8266-Post-Data-to-Website/))
